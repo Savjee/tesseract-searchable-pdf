@@ -6,7 +6,7 @@ Simple bash script to make searchable PDF's with [Tesseract OCR](https://github.
 The script takes 1 argument: the directory in which your PDF's are stored:
 
 ```
-./ocr.sh /path/to/directory/with/pdf's
+./ocr.sh /path/to/directory/with/pdfs
 ```
 
 It will output searchable PDF's in the same directory, with an `ocr-` prefix.
